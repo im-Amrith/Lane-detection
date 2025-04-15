@@ -1,0 +1,15 @@
+Model Evaluation Results
+======================
+
+Number of test images: 100
+Average inference time: 7.46 ms per image
+
+Pixel-wise Accuracy: 0.9835
+Precision: 0.9890
+Recall: 0.9288
+F1 Score: 0.9580
+Mean IoU: 0.9238
+
+Confusion Matrix (normalized):
+[ 0.9974, 0.0026 ]
+[ 0.0712, 0.9288 ]

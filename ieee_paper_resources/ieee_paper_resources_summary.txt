@@ -1,0 +1,26 @@
+LANE DETECTION IEEE PAPER RESOURCES
+==================================
+
+Generated resources for your IEEE paper on Lane Detection using Fully Convolutional Neural Networks.
+
+FILES INCLUDED:
+1. GRAPHS:
+   - confusion_matrix.png: Confusion matrix visualization for lane detection
+   - inference_time_resolution.png: Model inference time at different input resolutions
+   - performance_conditions.png: IoU performance under different road conditions
+   - performance_metrics_epochs.png: Accuracy, precision, recall and F1 score over training epochs
+   - performance_road_types.png: IoU performance on different road types
+   - training_validation_loss.png: Training and validation loss curves over epochs
+
+2. EVALUATION RESULTS:
+   - metrics.txt: Model performance metrics
+   - prediction_0.png: Visualization of model predictions
+   - prediction_1.png: Visualization of model predictions
+   - prediction_2.png: Visualization of model predictions
+   - prediction_3.png: Visualization of model predictions
+   - prediction_4.png: Visualization of model predictions
+
+HOW TO USE THESE RESOURCES:
+1. Include the graphs in the 'Experimental analysis' section of your IEEE paper
+2. Use the performance metrics from 'metrics.txt' in your 'Performance analysis' subsection
+3. Include prediction visualization images in your paper to demonstrate model output quality

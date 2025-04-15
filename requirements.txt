@@ -1,0 +1,10 @@
+torch
+scikit-learn
+torchvision
+numpy
+matplotlib
+pillow
+tensorflow==2.12.0
+scikit-image
+scipy
+opencv-python
